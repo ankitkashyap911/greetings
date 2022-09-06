@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{ margin-top: 300px;
+    margin-left: 30%;
+    text-align: center;
+    width: fit-content;
+    background-color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-origin: context-box;
+    cursor:pointer
+
+    
+}
+html{
+    background-color: rgb(113, 135, 178);
+}
